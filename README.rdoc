@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hi all,
+In this project I will be testing the new functions provided by Rails 4.2.0
 
-Things you may want to cover:
+* Ruby version -> 2 or above
 
-* Ruby version
+* System dependencies -> Ubuntu 14
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
