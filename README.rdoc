@@ -1,3 +1,4 @@
+{<img src="https://travis-ci.org/Rakshith-S/rails4.svg?branch=workingBranchRakshith" alt="Build Status" />}[https://travis-ci.org/Rakshith-S/rails4]
 == README
 
 Hi all,
