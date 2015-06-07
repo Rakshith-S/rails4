@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  getstudentinfo: MyString
+  name: MyString
+  address: MyText
+  pincode: 1
+
+two:
+  getstudentinfo: MyString
+  name: MyString
+  address: MyText
+  pincode: 1
