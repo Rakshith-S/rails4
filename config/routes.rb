@@ -1,4 +1,12 @@
 Rails.application.routes.draw do
+  resources :students
+
+  get 'report/all'
+
+  get 'report/restricted'
+
+  get 'report/department'
+
   resources :schools
 
   # The priority is based upon order of creation: first created -> highest priority.

@@ -8,3 +8,8 @@ In this project I will be testing the new functions provided by Rails 4.2.0
 
 * System dependencies -> Ubuntu 14
 
+* rails Generators executed:
+	1. rails g scaffold student name:string parentName:string parentTitle:string homeAddress:text contactNumber:integer
+	2. rails g controller report all restricted department
+	3. rails g scaffold school getstudentinfo name:string address:text pincode:integer  
+

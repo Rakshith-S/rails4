@@ -10,6 +10,10 @@ gem 'rails', '4.1.1'
 # Use MySQL as the database for ActiveRecord
 gem 'mysql2'
 
+
+# Install profiler
+gem 'rack-mini-profiler'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
@@ -41,7 +45,7 @@ gem 'spring',        group: :development
  gem 'capistrano-rails', group: :development
 
 # Use debugger
-# gem 'debugger', group: [:development, :test]
+ gem 'byebug', group: [:development, :test]
 
 # Use rspec for BDD
  gem 'rspec'
