@@ -11,25 +11,6 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150607120750) do
-
-  create_table "schools", force: true do |t|
-    t.string   "getstudentinfo"
-    t.string   "name"
-    t.text     "address"
-    t.integer  "pincode"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
-
-  create_table "students", force: true do |t|
-    t.string   "name"
-    t.string   "parentName"
-    t.string   "parentTitle"
-    t.text     "homeAddress"
-    t.integer  "contactNumber"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-  end
+ActiveRecord::Schema.define(version: 0) do
 
 end
